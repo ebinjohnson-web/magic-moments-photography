@@ -27,9 +27,9 @@ GitHub Pages serves the generated HTML, CSS and JavaScript. Node.js runs the dev
 - Scroll progress, photo parallax and viewport reveals.
 - Animated category filters covering all 23 original portfolio images.
 - Native modal image viewer with arrow keys, Escape, focus restoration and background scroll locking.
-- Responsive navigation, gallery, editorial sections, FAQs and inquiry form.
+- Image-first layout with the gallery directly after the hero, native photo proportions, a full-width film feature, compact about/FAQ sections and an inquiry form.
 - Reduced-motion preferences, visible keyboard focus, skip link and labeled controls.
-- Prerendered content, social metadata, local WebP assets and lazy gallery loading.
+- Prerendered content, social metadata, local WebP assets and lazy gallery loading with reserved image dimensions.
 
 ## Inquiry form
 
