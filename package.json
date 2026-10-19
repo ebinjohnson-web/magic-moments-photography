@@ -1,0 +1,13 @@
+{
+  "name": "magic-moments-photography",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "pages": "npm run build && node scripts/export-pages.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "dependencies": { "next": "16.4.2", "react": "19.3.1", "react-dom": "19.3.1", "motion": "14.4.0" },
+  "engines": { "node": ">=22" }
+}
